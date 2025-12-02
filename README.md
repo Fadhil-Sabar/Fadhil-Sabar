@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Fadhil Andriawan</h2>
 
-<h5 align="center">A Passionate Fullstack Developer | Universitas Terbuka Student | Freelance Web Developer</h5>
+<h5 align="center">Fullstack Developer | Universitas Terbuka Student | Freelance Web Developer</h5>
 
 <h5 align="center"><i>https://fadhil-andriawan.dev<i/><h5/>
 
@@ -41,16 +41,8 @@ Tech Stack
 
     , where I build and integrate applications with SAP for large-scale port systems used across 13 ports in Indonesia.
 
-🌱 I’m currently deepening my expertise in 
+I’m currently deepening my expertise in Next.js for interactive front-end development and Node JS for building robust back-end services.
 
-Next.js for interactive front-end development and Java Spring Boot for building robust back-end services.
+I’m open to collaborating on open-source projects or freelance opportunities, especially those involving modern web technologies.
 
-👯 I’m open to collaborating on open-source projects or freelance opportunities, especially those involving modern web technologies.
-
-🤔 I enjoy solving complex logic puzzles, refactoring inefficient code, and tackling challenges related to data transfer between client and server.
-
-📫 You can reach me via 
-
-email or connect with me on LinkedIn using the buttons above.
-
-⚡ Fun fact: Eat, Anime, Coding.
+Contact me via email or connect with me on LinkedIn using the buttons above.
