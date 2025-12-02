@@ -2,11 +2,11 @@
 
 <h5 align="center">Fullstack Developer | Universitas Terbuka Student | Freelance Web Developer</h5>
 
-<h5 align="center"><i>https://fadhil-andriawan.dev<i/><h5/>
+<h5 align="center"><i>https://fadhil-andriawan.dev</i><h5/>
 
 <br>
 
-<p align="center">
+<p align="justify">
 I'm a software developer with experience in building and maintaining web applications from front-end to back-end. I enjoy the entire development process, from slicing beautiful UIs with <b>Next.js</b> and <b>React</b> to engineering efficient back-end logic with <b>Spring Boot</b> and <b>Node.js</b>. My passion lies in continuous learning, exploring new technologies, and contributing to large-scale projects.
 
 
@@ -19,7 +19,7 @@ I'm a software developer with experience in building and maintaining web applica
 
 <br>
 
-Tech Stack
+<h5 align="center">Tech Stack</p>
 
 <div align="center">
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
@@ -37,11 +37,11 @@ Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
 </div>
 
-    🔭 I’m currently working as a Fullstack Web Developer at PT. Integrasi Logistik Cipta Solusi
+<br>
 
-    , where I build and integrate applications with SAP for large-scale port systems used across 13 ports in Indonesia.
+I’m currently working as a Fullstack Web Developer at PT. Integrasi Logistik Cipta Solusi, where I build and integrate applications with SAP for large-scale port systems used across 13 ports in Indonesia. 
 
-I’m currently deepening my expertise in Next.js for interactive front-end development and Node JS for building robust back-end services.
+Currently deepening my expertise in Next.js for interactive front-end development and Node JS for building robust back-end services.
 
 I’m open to collaborating on open-source projects or freelance opportunities, especially those involving modern web technologies.
 
